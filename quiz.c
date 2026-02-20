@@ -41,7 +41,7 @@ int main() {
         correct+=1;
     } else {
         printf(RED "Wrong! The Correct answer is Chanakya(Kautilya).\n\n" RESET);
-        score-=5;
+        score-=2;
         wrong+=1;
     }
 
@@ -56,7 +56,7 @@ int main() {
         correct+=1;
     }else{
         printf(RED "Wrong! The Correct answer is Mauryan Empire.\n\n" RESET);
-        score-=5;
+        score-=2;
         wrong+=1;
     }    
 
@@ -71,7 +71,7 @@ int main() {
         correct+=1;
     } else {
         printf(RED "Wrong! Correct answer is Rigveda.\n\n" RESET);
-        score-=5;
+        score-=2;
         wrong+=1;
     }
 
@@ -86,7 +86,7 @@ int main() {
         correct+=1;
     } else {
         printf(RED "Wrong! Correct answer is Nalanda University.\n\n" RESET);
-        score-=5;
+        score-=2;
         wrong+=1;
     }
 
@@ -101,7 +101,7 @@ int main() {
         correct+=1;
     } else {
         printf(RED "Wrong! Correct answer is Harappan Civilization.\n\n" RESET);
-        score-=5;
+        score-=2;
         wrong+=1;
     }
 
