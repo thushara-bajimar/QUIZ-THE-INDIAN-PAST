@@ -4,7 +4,7 @@ A *console-based C++ quiz application* that tests and improves knowledge of Indi
 
 ##  Features
 - Multiple-choice questions on Indian history  
-- Scoring system: +10 for correct, –5 for wrong  
+- Scoring system: +10 for correct, –2 for wrong  
 - Tracks correct and wrong answers  
 - Displays final score and summary  
 - Lightweight and easy to use via console  
